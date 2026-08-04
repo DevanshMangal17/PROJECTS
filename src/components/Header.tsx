@@ -59,14 +59,14 @@ export const Header: React.FC<HeaderProps> = ({
           <div>
             <div className="flex items-center gap-2">
               <h1 className="text-xl font-bold tracking-tight text-slate-900 dark:text-white">
-                ApexWMS Manpower Simulator
+                Warehouse Manpower Planning Simulator
               </h1>
               <span className="px-2 py-0.5 text-xs font-semibold rounded-full bg-blue-100 text-blue-800 dark:bg-blue-900/60 dark:text-blue-300 border border-blue-200 dark:border-blue-700/50">
                 v2.4 Enterprise
               </span>
             </div>
-            <p className="text-xs text-slate-500 dark:text-slate-400">
-              Intelligent DC Workforce Optimization & Operations Research Engine
+            <p className="text-xs text-slate-500 dark:text-slate-400 font-medium">
+              by Devansh & Shivam • Intelligent DC Workforce Optimization & Operations Research Engine
             </p>
           </div>
         </div>
